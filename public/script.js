@@ -46,7 +46,7 @@ btn.addEventListener("click", function (e) {
                       name="password"
                       placeholder=" "
                       autofocus=""
-                      value="hii"
+                      value=""
                       autocomplete="current-password"
                       data-rapid-tracking="true"
                       data-ylk="elm:input;elmt:focus;slk:passwd;mKey:focus-passwd"
