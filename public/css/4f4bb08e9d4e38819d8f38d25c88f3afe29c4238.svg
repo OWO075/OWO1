@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="14px" viewBox="0 0 36 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>New label</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="42.4382716%" x2="3.74939946e-31%" y2="57.5617284%" id="linearGradient-1">
+            <stop stop-color="#7764F9" offset="0%"></stop>
+            <stop stop-color="#769FFC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="qr-ar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Comm-channel-selector" transform="translate(-252.000000, -407.000000)">
+            <g id="New-label" transform="translate(252.000000, 407.000000)">
+                <g id="Group-3">
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="36" height="14" rx="7"></rect>
+                    <path d="M8.012,10.755 L8.012,4.617 L12.346,10.755 L13.336,10.755 L13.336,3 L12.324,3 L12.324,8.962 L8.122,3 L7,3 L7,10.755 L8.012,10.755 Z M17.769,10.887 C18.528,10.887 19.155,10.777 19.628,10.557 L19.628,9.677 L19.573,9.655 C19.045,9.897 18.462,10.007 17.802,10.007 C16.526,10.007 15.844,9.347 15.778,8.038 L19.771,8.038 C19.925,5.805 18.858,4.87 17.45,4.87 C15.888,4.87 14.766,6.069 14.766,7.862 C14.766,9.743 15.877,10.887 17.769,10.887 Z M18.737,7.246 L15.822,7.246 C15.987,6.267 16.559,5.739 17.439,5.739 C18.275,5.739 18.704,6.322 18.737,7.246 Z M22.961,10.755 L24.27,6.465 L25.634,10.755 L26.437,10.755 L28.065,5.068 L28.065,5.002 L27.097,5.002 L25.975,9.16 L24.732,5.002 L23.874,5.002 L22.631,9.16 L21.509,5.002 L20.486,5.002 L20.486,5.068 L22.147,10.755 L22.961,10.755 Z" id="New" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

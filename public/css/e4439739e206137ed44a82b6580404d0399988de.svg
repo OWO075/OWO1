@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>info</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Account-Access" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Disabled_Fb_01" transform="translate(-264.000000, -513.000000)" fill="#464E56" stroke="#E9E9EC" stroke-width="0.4">
+            <path d="M276,521 C275.448,521 275,520.552 275,520 C275,519.447 275.448,519 276,519 C276.552,519 277,519.447 277,520 C277,520.552 276.552,521 276,521 M276,530 C275.448,530 275,529.552 275,529 L275,524 C275,523.447 275.448,523 276,523 C276.552,523 277,523.447 277,524 L277,529 C277,529.552 276.552,530 276,530 M276,516 C271.039,516 267,520.038 267,525 C267,529.962 271.039,534 276,534 C280.962,534 285,529.962 285,525 C285,520.038 280.962,516 276,516 M276,536 C269.935,536 265,531.065 265,525 C265,518.935 269.935,514 276,514 C282.064,514 287,518.935 287,525 C287,531.065 282.064,536 276,536" id="info"></path>
+        </g>
+    </g>
+</svg>

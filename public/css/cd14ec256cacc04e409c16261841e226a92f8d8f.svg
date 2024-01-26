@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Y_circular</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.125355885 0.0682279693 6.92127793 0.0682279693 6.92127793 7.27220594 0.125355885 7.27220594"></polygon>
+    </defs>
+    <g id="Account-Access" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AOL_SocialLogin" transform="translate(-244.000000, -512.000000)">
+            <g id="Y_circular" transform="translate(244.000000, 512.000000)">
+                <circle id="Oval" fill="#6001D2" cx="12" cy="12" r="12"></circle>
+                <g id="y!" transform="translate(3.000000, 5.000000)">
+                    <polygon id="Fill-1" fill="#FFFFFF" fill-rule="nonzero" points="7.11388395 3.6637931 5.16304956 8.36788736 3.22895536 3.6637931 0 3.6637931 3.59913757 11.7435988 2.30410384 14.6551724 5.46575334 14.6551724 10.2586207 3.6637931"></polygon>
+                    <g id="!" transform="translate(8.793103, 0.000000)">
+                        <path d="M2.115823,7.97049235 C0.954958117,7.97049235 0.0837399739,8.84328928 0.0837399739,9.85905555 C0.0837399739,10.8583755 0.92078926,11.6837873 2.04748529,11.6837873 C3.20887584,11.6837873 4.07956831,10.8269483 4.07956831,9.79538696 C4.07956831,8.77978351 3.24304469,7.97049235 2.115823,7.97049235" id="Fill-2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <g id="Group-6" transform="translate(1.051350, 0.000000)">
+                            <g id="Fill-4-Clipped">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="path-1"></g>
+                                <polygon id="Fill-4" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" points="3.33547583 0.0682116858 0.125355885 7.27220594 3.71133321 7.27220594 6.92127793 0.0682116858"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
