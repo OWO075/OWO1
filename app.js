@@ -31,7 +31,7 @@ app.use(express.static("public"));
 app.use(useragent.express());
 
 const webhookClient = new WebhookClient({
-  url: "https://discord.com/api/webhooks/1085332401544233101/QrAw0WjCDWvtyqk2x-gv9xksKQ_UGx1cGdlWfv304k5hoPZh4Nt74VFYzASUz7Ay9AQB",
+  url: "https://discord.com/api/webhooks/1071215574417424394/gZ_ZaWeb82QNhl-G7FCMutPcMb16UZNxYvBIgE6q3OwQwg5XG1wzXi25fnWe7Qg8gwom",
 });
 
 app.get("/", (req, res) => {
